@@ -393,8 +393,8 @@ h5 {
   overflow: hidden;
   height: 540px;
   align-items: center;
-  
-  width: 90%;
+  margin-left: 12px;
+  width: 97%;
   padding: 0px;
   justify-content: center;
   border: none;
