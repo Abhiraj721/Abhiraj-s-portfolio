@@ -233,16 +233,16 @@ right:31px;
   right: -2px;
 }
 .sign{
-  position: relative;
+  /* position: relative;
   bottom: 27px;
-  right: -15px;
+  right: -15px; */
   height: 60px;
   width: 60px;
 }
 .sign2{
-  position: relative;
+  /* position: relative;
   bottom: 27px;
-  right: 12px;
+  right: 12px; */
   height: 60px;
   width: 60px;
 }
