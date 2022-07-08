@@ -176,8 +176,8 @@ navm{
   font-size: 34px;
 }
 .linkdin{
-height: 71px;
-width: 71px;
+height: 38px;
+width: 38px;
 position: relative;
 right:31px;
 
@@ -185,22 +185,27 @@ right:31px;
 }
 .instagram{
   
-    height: 71px;
-    width: 71px;
+    height: 38px;
+    width: 38px;
     position: relative;
     right: 37px;
     left: 5px;
     
     }
     .github{
-      height: 71px;
-      width: 71px;
+      height: 38px;
+      width: 38px;
       position: relative;
       left: 35px;
 
     }
+    .socials{
+      text-decoration: none;
+      font-size: 24px;
+    }
     .introl{
-      font-size: 18px;
+      font-size: 21px;
+      color:white;
   font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
     }
 
@@ -218,8 +223,8 @@ right:31px;
 .roundj{
   position: relative;
   bottom: 1px;
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
   border-radius: 50%;
   
 }
@@ -252,7 +257,7 @@ right:31px;
 
 }
 .as{
-  width: 371px;
+  width: 338px;
   height: 300px;
   backdrop-filter: blur(2px) ;
 }
@@ -381,7 +386,7 @@ html {
 }
 
 h5 {
-  font-size: 1.28571429em;
+  font-size: 1.28538429em;
   font-weight: 700;
   line-height: 1.2857em;
   margin: 0;
@@ -398,7 +403,7 @@ h5 {
   padding: 0px;
   justify-content: center;
   border: none;
-  border-radius: .28571429rem;
+  border-radius: .28538429rem;
   box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
 }
 
@@ -419,7 +424,7 @@ h5 {
 }
 
 .card-title {
-  font-size: 1.28571429em;
+  font-size: 1.28538429em;
   font-weight: 700;
   line-height: 1.2857em;
 }
@@ -495,3 +500,9 @@ h5 {
 .meta a:hover {
   color: rgba(0, 0, 0, .87);
 }
+
+
+
+
+
+
