@@ -30,6 +30,15 @@ position: relative;
 top:12px;
 
 }
+a{
+  text-decoration: none;
+}
+p a{
+  color: rgb(15, 7, 7);
+}
+.uni{
+  color:rgb(250, 243, 243);
+}
 navm{
     
     color: white;
@@ -54,6 +63,7 @@ text-align: center;
 .navbar navbar-expand-lg navbar-light light{
   margin: 0;
 }
+
 .blur-plz{
   backdrop-filter: blur(9px) ;
 }
@@ -106,7 +116,7 @@ text-align: center;
 
      <div class="container"><h2 style="font-size:29px">About me</h2>
        <p class="introl container" style="padding:20px">I am Abhiraj Bhosle persuing Btech Computer science from IPS Academy indore.I've worked on various solo and team projects and have mastered multiple progamming languages and coding.
-      Currently I am working as a frontend-web developer intern at <a href="https://unicompiler.com/">UNIcompiler</a> in a virtual internship program.
+      Currently I am working as a frontend-web developer intern at <a class="uni" href="https://unicompiler.com/">UNIcompiler</a> in a virtual internship program.
     </p>
     <h2 style="font-size:29px">Education</h2>
     <br>
@@ -121,21 +131,29 @@ text-align: center;
     <br>
  <div class="row">
    <div class="col-lg-4 col-md-4 col-sm-4">
-     <p class="hobbies">Coding</p>
+     <p class="hobbies ">Coding</p>
    </div>
    <div class="col-lg-4 col-md-4 col-sm-4">
-    <p class="hobbies">Design and Development</p>
+    <p class="hobbies ">Design and Development</p>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-4">
-    <p class="hobbies">Astronomy</p>
+    <p class="hobbies " id="astro1"><a href="https://www.instagram.com/astroindian/">Astronomy</a>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-4">
-    <p class="hobbies">Gaming</p>
+    <p class="hobbies " id="cube"><a href="https://www.instagram.com/abhiraj_720/">SpeedCubing</a></p>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-4">
-    <p class="hobbies">Astrophotography</p>
+    <p class="hobbies " id="astro2"><a href="https://www.instagram.com/astroindian/">Astrophotography<i class="fa-solid fa-telescope"></i></a>
+ </p>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-4">
+    <p class="hobbies " class="hobby">Gaming</p>
+    <br
+    
   </div>
  </div>
+ <br>
+ <h3>Check my Astrophotography work on my <i class="fa-solid fa-arrow-right"></i><a href="https://www.instagram.com/astroindian/"> <span class="btn btn-danger" style="font-size: 15px; background-color: indianred;"> <i class="fa-brands fa-instagram"></i><span> Instagram</span></span></a></h3>
   </div></div>
                <div class="col-lg-1 col-md-12 col-sm-12">
         </div></div>
@@ -144,5 +162,6 @@ text-align: center;
  </fieldset>
  </div>
 </center>
+<script src="index.js"></script>
 </body>
 </html>

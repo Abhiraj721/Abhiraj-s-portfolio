@@ -204,7 +204,7 @@ right:31px;
       font-size: 24px;
     }
     .introl{
-      font-size: 21px;
+      font-size: 20px;
       color:white;
   font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
     }
@@ -228,8 +228,12 @@ right:31px;
   border-radius: 50%;
   
 }
+
 .hobbies{
   font-size: 18px;
+  color:black;
+background-color:rgb(246, 235, 247);
+display: block-inline;
 }
 .round{
   position: relative;
