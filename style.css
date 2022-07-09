@@ -8,7 +8,8 @@ body{
   align-items: center;
   text-align: center;
   backdrop-filter: blur(13px);
-  width:99.8%;
+  width:99.6%;
+  font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
       
   /* background-attachment: fixed; */
   background-position: center center;
@@ -166,7 +167,7 @@ navm{
 }
 .io{
   font-size: 61px;
-  font-family: 'Josefin Sans', sans-serif;
+ font-family: 'Josefin Sans', sans-serif;
 }
 .hi{
   font-family: 'Josefin Sans', sans-serif; 
@@ -213,7 +214,7 @@ right:31px;
 
 .intro{
   font-size: 27px;
-  font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+  font-family: 'Josefin Sans', sans-serif;
 }
 .oi{
   font-size:32px;
