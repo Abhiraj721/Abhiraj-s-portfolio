@@ -1,16 +1,18 @@
 body{
   background-repeat: no-repeat;
   background-size:cover;
+
   /*overflow-x: 10%;*/
   margin: 0px;
   position: sticky;
   align-items: center;
   text-align: center;
-  width: 99%;
+  backdrop-filter: blur(13px);
+  width:99.8%;
       
   /* background-attachment: fixed; */
   background-position: center center;
- color: white;
+ color: rgb(252, 247, 247);
  
  
 }
