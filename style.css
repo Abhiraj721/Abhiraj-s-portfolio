@@ -128,7 +128,7 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   
 }
 .navbar-toggler{
-  background-color: green;
+  background-color: rgb(252, 147, 161);
 }
 .navbar ul{
   backdrop-filter: blur(5px) ;
